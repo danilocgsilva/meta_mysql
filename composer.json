@@ -1,0 +1,16 @@
+{
+    "name": "danilocgsilva/meta_mysql",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Danilocgsilva\\MetaMysql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Silva",
+            "email": "contact@danilocgsilva.me"
+        }
+    ],
+    "require": {}
+}
